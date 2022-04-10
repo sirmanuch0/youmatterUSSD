@@ -1,0 +1,26 @@
+{
+  "name": "garbanize-ussd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:prod": "node index.js",
+    "start:dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "elarian": "^0.2.23",
+    "express": "^4.17.1",
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0",
+    "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

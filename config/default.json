@@ -1,0 +1,35 @@
+{
+	"activityChannel": {
+		"number": "ussd",
+		"channel": "web"
+	},
+
+	"locations": [
+		"Nairobi",
+		"Kiambu",
+		"Nakuru",
+		"Kisumu",
+		"Mombasa"
+	],
+
+	"roles": [
+		"Expectant Woman",
+		"Supporter/Hospital"
+	],
+	
+	"hospitals": [
+		"MP-Shah Hospital",
+		"Nairobi Womens",
+		"Pumwani Hospital",
+		"Mbagathi Hospital",
+		"Matter Hospital"
+	],
+	
+	"contacts": {
+		"Gatundu": ["+254712345678"],
+		"Nairobi Womens": ["+254787654321"],
+		"Pumwani": ["+254723456789"],
+		"Mbagathi": ["+254713579248"],
+		"Matter Hospital": ["+254713121415"]
+	}
+}
