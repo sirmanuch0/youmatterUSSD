@@ -1,3 +1,3 @@
-# Garbanize USSD
+# Gender Hackathon You Matter USSD
 
-garbage collector app that builds on both elarian and stellar network
+You Matter Ussd app that builds on elarian to provide support for expectant women.
